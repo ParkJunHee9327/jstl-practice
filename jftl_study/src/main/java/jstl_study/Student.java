@@ -1,0 +1,4 @@
+package jstl_study;
+
+public class Student {
+}
